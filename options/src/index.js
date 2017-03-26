@@ -20,60 +20,38 @@ const initData = {
             "option_value":"01_922 플라이 라쿤힙선 오리털 다운점퍼",
             "sub_options":[
               {
-                "option_value":"다크오렌지",
+                "option_value":"다크오렌지1-1",
                 "sub_options":[
                   {
-                    "option_value":"L(남성)",
+                    "option_value":"L(남성)1-1-1",
                     "sub_options":[
                       {
-                        "option_value":"마지막 1"
+                        "option_value":"마지막 1-1-1-1"
                       },
                       {
-                        "option_value":"마지막 2"
+                        "option_value":"마지막 1-1-1-2"
                       },
                     ]
                   },
                   {
-                    "option_value":"M(남성)",
+                    "option_value":"M(남성)1-1-2",
                     "sub_options":[
                       {
-                        "option_value":"마지막 1"
+                        "option_value":"마지막 1-1-2-1"
                       },
                       {
-                        "option_value":"마지막 2"
+                        "option_value":"마지막 1-1-2-2"
                       },
                     ]
                   },
                   {
-                    "option_value":"M(여성)",
+                    "option_value":"M(여성)1-1-3",
                     "sub_options":[
                       {
-                        "option_value":"마지막 1"
+                        "option_value":"마지막 1-1-3-1"
                       },
                       {
-                        "option_value":"마지막 2"
-                      },
-                    ]
-                  },
-                  {
-                    "option_value":"S(여성)",
-                    "sub_options":[
-                      {
-                        "option_value":"마지막 1"
-                      },
-                      {
-                        "option_value":"마지막 2"
-                      },
-                    ]
-                  },
-                  {
-                    "option_value":"XL(남성)",
-                    "sub_options":[
-                      {
-                        "option_value":"마지막 1"
-                      },
-                      {
-                        "option_value":"마지막 2"
+                        "option_value":"마지막 1-1-3-2"
                       },
                     ]
                   }
@@ -81,60 +59,38 @@ const initData = {
                 "depth":1
               },
               {
-                "option_value":"레드",
+                "option_value":"레드1-2",
                 "sub_options":[
                   {
-                    "option_value":"L(남성)",
+                    "option_value":"L(남성)1-2-1",
                     "sub_options":[
                       {
-                        "option_value":"마지막 1"
+                        "option_value":"마지막 1-2-1-1"
                       },
                       {
-                        "option_value":"마지막 2"
+                        "option_value":"마지막 1-2-1-2"
                       },
                     ]
                   },
                   {
-                    "option_value":"M(남성)",
+                    "option_value":"M(남성)1-2-2",
                     "sub_options":[
                       {
-                        "option_value":"마지막 1"
+                        "option_value":"마지막 1-2-2-1"
                       },
                       {
-                        "option_value":"마지막 2"
+                        "option_value":"마지막 1-2-2-2"
                       },
                     ]
                   },
                   {
-                    "option_value":"M(여성)",
+                    "option_value":"M(여성)1-2-3",
                     "sub_options":[
                       {
-                        "option_value":"마지막 1"
+                        "option_value":"마지막 1-2-3-1"
                       },
                       {
-                        "option_value":"마지막 2"
-                      },
-                    ]
-                  },
-                  {
-                    "option_value":"S(여성)",
-                    "sub_options":[
-                      {
-                        "option_value":"마지막 1"
-                      },
-                      {
-                        "option_value":"마지막 2"
-                      },
-                    ]
-                  },
-                  {
-                    "option_value":"XL(남성)",
-                    "sub_options":[
-                      {
-                        "option_value":"마지막 1"
-                      },
-                      {
-                        "option_value":"마지막 2"
+                        "option_value":"마지막 1-2-3-2"
                       },
                     ]
                   }
@@ -149,60 +105,38 @@ const initData = {
             "option_value":"02_925 플라이 N-3B 항공 다운점퍼",
             "sub_options":[
               {
-                "option_value":"다크오렌지_02",
+                "option_value":"다크오렌지2-1",
                 "sub_options":[
                   {
-                    "option_value":"L(남성)_02",
+                    "option_value":"L(남성)2-1-1",
                     "sub_options":[
                       {
-                        "option_value":"마지막 1"
+                        "option_value":"마지막 2-1-1-1"
                       },
                       {
-                        "option_value":"마지막 2"
+                        "option_value":"마지막 2-1-1-2"
                       },
                     ]
                   },
                   {
-                    "option_value":"M(남성)_02",
+                    "option_value":"M(남성)2-1-2",
                     "sub_options":[
                       {
-                        "option_value":"마지막 1"
+                        "option_value":"마지막 2-1-2-1"
                       },
                       {
-                        "option_value":"마지막 2"
+                        "option_value":"마지막 2-1-2-2"
                       },
                     ]
                   },
                   {
-                    "option_value":"M(여성)_02",
+                    "option_value":"M(여성)2-1-3",
                     "sub_options":[
                       {
-                        "option_value":"마지막 1"
+                        "option_value":"마지막 2-1-3-1"
                       },
                       {
-                        "option_value":"마지막 2"
-                      },
-                    ]
-                  },
-                  {
-                    "option_value":"S(여성)_02",
-                    "sub_options":[
-                      {
-                        "option_value":"마지막 1"
-                      },
-                      {
-                        "option_value":"마지막 2"
-                      },
-                    ]
-                  },
-                  {
-                    "option_value":"XL(남성)_02",
-                    "sub_options":[
-                      {
-                        "option_value":"마지막 1"
-                      },
-                      {
-                        "option_value":"마지막 2"
+                        "option_value":"마지막 2-1-3-2"
                       },
                     ]
                   }
@@ -210,54 +144,32 @@ const initData = {
                 "depth":1
               },
               {
-                "option_value":"레드_02",
+                "option_value":"레드2-2",
                 "sub_options":[
                   {
-                    "option_value":"L(남성)_02",
+                    "option_value":"L(남성)2-2-1",
                     "sub_options":[
                       {
-                        "option_value":"마지막 1"
+                        "option_value":"마지막 2-2-1-1"
                       },
                       {
-                        "option_value":"마지막 2"
+                        "option_value":"마지막 2-2-1-2"
                       },
                     ]
                   },
                   {
-                    "option_value":"M(남성)_02",
+                    "option_value":"M(남성)2-2-2",
                     "sub_options":[
                       {
-                        "option_value":"마지막 1"
+                        "option_value":"마지막 2-2-2-1"
                       },
                       {
-                        "option_value":"마지막 2"
+                        "option_value":"마지막 2-2-2-2"
                       },
                     ]
                   },
                   {
                     "option_value":"M(여성)_02",
-                    "sub_options":[
-                      {
-                        "option_value":"마지막 1"
-                      },
-                      {
-                        "option_value":"마지막 2"
-                      },
-                    ]
-                  },
-                  {
-                    "option_value":"S(여성)_02",
-                    "sub_options":[
-                      {
-                        "option_value":"마지막 1"
-                      },
-                      {
-                        "option_value":"마지막 2"
-                      },
-                    ]
-                  },
-                  {
-                    "option_value":"XL(남성)_02",
                     "sub_options":[
                       {
                         "option_value":"마지막 1"
@@ -278,60 +190,38 @@ const initData = {
             "option_value":"03_924 플라이 테디 다운점퍼",
             "sub_options":[
               {
-                "option_value":"다크오렌지_03",
+                "option_value":"다크오렌지3-1",
                 "sub_options":[
                   {
-                    "option_value":"L(남성)_03",
+                    "option_value":"L(남성)3-1-1",
                     "sub_options":[
                       {
-                        "option_value":"마지막 1"
+                        "option_value":"마지막 3-1-1-1"
                       },
                       {
-                        "option_value":"마지막 2"
+                        "option_value":"마지막 3-1-1-2"
                       },
                     ]
                   },
                   {
-                    "option_value":"M(남성)_03",
+                    "option_value":"M(남성)3-1-2",
                     "sub_options":[
                       {
-                        "option_value":"마지막 1"
+                        "option_value":"마지막 3-1-2-1"
                       },
                       {
-                        "option_value":"마지막 2"
+                        "option_value":"마지막 3-1-2-2"
                       },
                     ]
                   },
                   {
-                    "option_value":"M(여성)_03",
+                    "option_value":"M(여성)3-1-3",
                     "sub_options":[
                       {
-                        "option_value":"마지막 1"
+                        "option_value":"마지막 3-1-3-1"
                       },
                       {
-                        "option_value":"마지막 2"
-                      },
-                    ]
-                  },
-                  {
-                    "option_value":"S(여성)_03",
-                    "sub_options":[
-                      {
-                        "option_value":"마지막 1"
-                      },
-                      {
-                        "option_value":"마지막 2"
-                      },
-                    ]
-                  },
-                  {
-                    "option_value":"XL(남성)_03",
-                    "sub_options":[
-                      {
-                        "option_value":"마지막 1"
-                      },
-                      {
-                        "option_value":"마지막 2"
+                        "option_value":"마지막 3-1-3-2"
                       },
                     ]
                   }
@@ -339,60 +229,38 @@ const initData = {
                 "depth":1
               },
               {
-                "option_value":"레드_03",
+                "option_value":"레드3-2",
                 "sub_options":[
                   {
-                    "option_value":"L(남성)_03",
+                    "option_value":"L(남성)3-2-1",
                     "sub_options":[
                       {
-                        "option_value":"마지막 1"
+                        "option_value":"마지막 3-2-1-1"
                       },
                       {
-                        "option_value":"마지막 2"
+                        "option_value":"마지막 3-2-1-2"
                       },
                     ]
                   },
                   {
-                    "option_value":"M(남성)_03",
+                    "option_value":"M(남성)3-2-2",
                     "sub_options":[
                       {
-                        "option_value":"마지막 1"
+                        "option_value":"마지막 3-2-2-1"
                       },
                       {
-                        "option_value":"마지막 2"
+                        "option_value":"마지막 3-2-2-2"
                       },
                     ]
                   },
                   {
-                    "option_value":"M(여성)_03",
+                    "option_value":"M(여성)3-2-3",
                     "sub_options":[
                       {
-                        "option_value":"마지막 1"
+                        "option_value":"마지막 3-2-3-1"
                       },
                       {
-                        "option_value":"마지막 2"
-                      },
-                    ]
-                  },
-                  {
-                    "option_value":"S(여성)_03",
-                    "sub_options":[
-                      {
-                        "option_value":"마지막 1"
-                      },
-                      {
-                        "option_value":"마지막 2"
-                      },
-                    ]
-                  },
-                  {
-                    "option_value":"XL(남성)_03",
-                    "sub_options":[
-                      {
-                        "option_value":"마지막 1"
-                      },
-                      {
-                        "option_value":"마지막 2"
+                        "option_value":"마지막 3-2-3-2"
                       },
                     ]
                   }
@@ -431,7 +299,8 @@ let initialState = {
   is_init: true,
   current_depth: 0,
   option_list: [],
-  result_data: ''
+  result_data: '',
+  selected: [],
 };
 
 
@@ -451,85 +320,43 @@ function reducer(state = initialState, action) {
       newState.option_list[0].depth = option_info.list.map(function (item, idx) {
         return item.value.option_value;
       });
+
       return newState;
     case 'CHANGE':
-      console.log('action.index', action.index);
-      console.log('action.selectIndex', action.selectIndex);
+      if (newState.selected[action.selectIndex - 1] === undefined) {
+        newState.selected.push(action.index - 1);
+      } else {
+        newState.selected[action.selectIndex - 1] = action.index - 1;
+      }
+      console.log(newState.selected);
 
       function getOptionListByDepth(root) {
         for (var i = 0; i < action.selectIndex; i++) {
           if (i === 0) {
-            console.log('111');
             root = root.value.sub_options;
           } else {
-            console.log('222');
-            root = root[action.index].sub_options;
-          //  console.log('asdfsdafds root', root);
+            console.log('root', root);
+            console.log('i', i);
+            console.log('newState.selected', newState.selected);
+            root = root[parseInt(newState.selected[i])].sub_options;
           }
         }
         return root;
       }
 
-      // newState.is_init = false;
-      // let sub_data = option_info.list[action.index - 1].sub_option || {};
-      // console.log('1', sub_data);
-      // sub_data = sub_data.value ? sub_data.value.option_value : sub_data.option_value;
-      // console.log('2', sub_data);
+      let getOptionByDepth = getOptionListByDepth(option_info.list[parseInt(newState.selected[0])]);
+      // console.log('getOptionByDepth', getOptionByDepth);
+      newState.option_list[action.selectIndex].depth = getOptionByDepth.map(function (item, idx) {
+        return item.option_value;
+      });
 
-      // console.log(action.index);
-      // console.log(action.selectIndex);
-      // let sub_data = option_info.list[action.index - 1].value.sub_options;
-    //  if (newState.option_list[action.selectIndex]) {
-        // console.log(getOptionListByDepth(option_info.list[action.index - 1]));
-        let getOptionByDepth = getOptionListByDepth(option_info.list[action.index - 1]);
-        console.log('getOptionByDepth', getOptionByDepth);
-        newState.option_list[action.selectIndex].depth = getOptionByDepth.map(function (item, idx) {
-          return item.option_value;
-        });
-    //  } else {
-        //console.log('result', newState.option_list[action.index].depth[action.index - 1]);
-        // newState.result_data =
-    //  }
-
-      //console.log(newState);
       return newState;
     default:
       return state;
   }
-  // console.log('changeState', changeState);
-  // return changeState;
-  // switch (action.type) {
-
-
-    // case 'INIT':
-    //   console.log('INIT');
-    //   return state;
-    // case 'CHANGE':
-    //   const idx = action.current_depth;
-    //   let optionList = changeState.result_set.option_info.list;
-    //
-    //   changeState.is_init = false;
-    //   // optionList = [];
-    //   optionList = {
-    //     value: {
-    //       sub_options: []
-    //     }
-    //   };
-    //   optionList.value.sub_options.map(function(val) {
-    //     optionList.push(val)
-    //   });
-    //   // changeState.result_set.option_info.list.push(state.result_set.option_info.list[idx].value.sub_options);
-    //
-    //   console.log(changeState);
-    //   return changeState;
-    // default:
-    //   console.log('default');
-    //   return state;
-    return state;
-  // }
 }
 const store = createStore(reducer);
-console.log('store.getState()', store.getState());
+// console.log('store.getState()', store.getState());
 
 // Action
 

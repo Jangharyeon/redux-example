@@ -287,8 +287,9 @@ const hbsTmpl = '<h1>Option select</h1>\
   {{/if}}\
 </select>\
 {{/each}}\
-<div id="result"></div>\
+<div id="result">{{ result_data }}</div>\
 ';
+
 const optionTmpl = hbs.compile(hbsTmpl);
 
 hbs.registerHelper('inc', function (value) {
@@ -299,7 +300,7 @@ let initialState = {
   is_init: true,
   current_depth: 0,
   option_list: [],
-  result_data: '',
+  result_data: [],
   selected: [],
 };
 
@@ -335,20 +336,24 @@ function reducer(state = initialState, action) {
           if (i === 0) {
             root = root.value.sub_options;
           } else {
-            console.log('root', root);
-            console.log('i', i);
-            console.log('newState.selected', newState.selected);
             root = root[parseInt(newState.selected[i])].sub_options;
           }
         }
         return root;
       }
 
-      let getOptionByDepth = getOptionListByDepth(option_info.list[parseInt(newState.selected[0])]);
-      // console.log('getOptionByDepth', getOptionByDepth);
-      newState.option_list[action.selectIndex].depth = getOptionByDepth.map(function (item, idx) {
-        return item.option_value;
-      });
+      if (newState.option_list.length === action.selectIndex) {
+        console.log(newState.result_data);
+        for (let i = 0; i < newState.option_list.length; ++i) {
+          newState.result_data.push(newState.option_list[i].depth[parseInt(newState.selected[i])]);
+        }
+      } else {
+        let getOptionByDepth = getOptionListByDepth(option_info.list[parseInt(newState.selected[0])]);
+        newState.option_list[action.selectIndex].depth = getOptionByDepth.map(function (item, idx) {
+          return item.option_value;
+        });
+      }
+      console.log(newState);
 
       return newState;
     default:
@@ -356,7 +361,7 @@ function reducer(state = initialState, action) {
   }
 }
 const store = createStore(reducer);
-// console.log('store.getState()', store.getState());
+console.log('store.getState()', store.getState());
 
 // Action
 
